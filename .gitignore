@@ -1,0 +1,19 @@
+*.code-workspace
+
+# Languages
+node_modules
+package-lock.json
+npm*.log
+yarn*.log
+vendor
+build
+tsconfig.tsbuildinfo
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/*
+.vs
+!.vscode/launch.json
+.idea
